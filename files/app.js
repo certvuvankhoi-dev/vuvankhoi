@@ -1,7 +1,22 @@
 // APP DATA CONFIGURATION
 
 const apps = [
-{
+{ 
+        name: '<strong><em>Delta X VNG/QT ANDROI✅</em></strong>',
+        url: 'https://vuvankhoi.com.vn/',
+        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 11/08/2026'
+    },{ 
+        name: '<strong><em>Delta X VNG/QT IOS ✅</em></strong>',
+        url: 'https://ngocbonggaming.com/',
+        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 11/08/2026'
+    },{ 
+        name: '<strong><em>Delta X VNG IOS Bản Gốc ✅</em></strong>',
+        url: 'https://sub2s.com/1785904457',
+        img: 'https://i.postimg.cc/j5Pt7VJt/IMG-3155.jpg',
+        descriptions: 'Link Cài Trực Tiếp V2.731 Cập Nhật Ngày 07/08/2026'
+    },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
         url: 'https://sub2sunlock.blogspot.com/2026/05/link-tai-trong-video.html',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
