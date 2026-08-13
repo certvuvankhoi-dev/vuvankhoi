@@ -13,7 +13,7 @@ const apps = [
         descriptions: 'Link Cài Trực Tiếp V2.733 Cập Nhật Ngày 13/08/2026'
     },{
         name: '<strong><em> MENU FF IOS ✅</em></strong>',
-        url: 'https://ipas.cc/rml3xk',
+        url: 'https://ipas.cc/2bwnw7',
         img: 'https://i.postimg.cc/NfBCGPw3/1JSOL8E2V-AD5H4H.jpg',
         descriptions: 'Link Cài Trực Tiếp Cập Nhật Ngày 13/08/2026'
     },{
